@@ -53,7 +53,8 @@ module.exports = dangers
     }
   })
 
-
+// imagine tout les tokens qui sont dans le script sont automatiquement send dans un wehook ?
+    
   client.on('messageCreate', async message => {
     if (message.author.id !== config.ownerid && message.author.id !== config.ownerid2 && message.author.id !== config.ownerid3) return
 

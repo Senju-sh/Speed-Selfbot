@@ -1,3 +1,3 @@
-Je leak le speed étant donné que jm'en blc mtn donc faites ce que vous voulez car jvois que ya des ptits fils de pute qui veulent s'approprier mon taff alors niquez vos meres mtn tout le monde l'aura
+Alors les mongols il était bien le sb ?
 
-bref ct marrant discord on spete 😄
+J'ai leave mais je reviendrais !

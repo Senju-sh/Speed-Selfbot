@@ -1,3 +1,1 @@
-Alors les mongols il était bien le sb ?
-
-J'ai leave mais je reviendrais !
+[Speed v2 ?](https://senju.cc/discord)

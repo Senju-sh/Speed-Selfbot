@@ -1,1 +1,1 @@
-[Speed v2 ?](https://senju.cc/discord)
+[Speed v2 ?](https://senju.cc/)

@@ -1,1 +1,3 @@
-[Speed v2 ?](https://senju.cc/)
+---
+
+- [New Projet](https://discord.gg/speed-sb)

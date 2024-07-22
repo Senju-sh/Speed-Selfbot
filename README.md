@@ -1,3 +1,3 @@
 ---
 
-- [New Projet](https://discord.gg/speed-sb)
+- [New Update](https://discord.gg/speed-sb)

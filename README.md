@@ -1,3 +1,3 @@
 ---
 
-- [New Update](https://discord.gg/speed-sb)
+- [New Project](https://discord.gg/stealy)

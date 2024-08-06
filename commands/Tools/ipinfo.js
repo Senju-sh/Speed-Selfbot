@@ -19,7 +19,7 @@ module.exports = {
       if (json.status !== "success")
         return message.edit(await language(client, "Adresse IP invalide", "Invalid IP address"))
 
-      message.edit("**SHENMUE LE HAXOR IP INFOS**```json\n\n" + JSON.stringify(json, null, 2) + "```")
+      message.edit("**Speed**```json\n\n" + JSON.stringify(json, null, 2) + "```")
       
     }
     catch(e){}
